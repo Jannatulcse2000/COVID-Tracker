@@ -46,6 +46,9 @@ A Google map displays markers representing COVID-positive users' locations, exce
 
 ## Installation
 
+
+## [Download this app ](https://drive.google.com/file/d/1cJ7o4N-E3ir4huE1l1QxALknbt2KtH5h/view?usp=sharing)
+
 ### Permissions
 Add the following permissions to your `AndroidManifest.xml` file:
 ```xml
@@ -58,4 +61,4 @@ Add the following permissions to your `AndroidManifest.xml` file:
 <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
 <uses-permission android:name="android.permission.INTERNET" />
 
-## [Download this app ](https://drive.google.com/file/d/1cJ7o4N-E3ir4huE1l1QxALknbt2KtH5h/view?usp=sharing)
+

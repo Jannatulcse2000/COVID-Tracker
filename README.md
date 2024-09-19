@@ -57,3 +57,5 @@ Add the following permissions to your `AndroidManifest.xml` file:
 <uses-permission android:name="com.vogella.android.locationapi.maps.permission.MAPS_RECEIVE" />
 <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
 <uses-permission android:name="android.permission.INTERNET" />
+
+## [Download this app ](https://drive.google.com/file/d/1cJ7o4N-E3ir4huE1l1QxALknbt2KtH5h/view?usp=sharing)
